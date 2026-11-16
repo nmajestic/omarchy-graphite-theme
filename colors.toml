@@ -1,0 +1,46 @@
+# Graphite — black glass, white type, a stainless edge.
+# No hue is used as chrome. Red is only for a real alert.
+mode = "dark"
+
+accent = "#e7edf2"
+selection = "#22262c"
+selection_foreground = "#ffffff"
+# Brushed steel, a step darker than the interface type so the icons are not white.
+# A grey accent would otherwise fall back to blue.
+icon_main = "#8fa0ad"
+icon_main_end = "#c3cdd6"
+icon_mark = "#d5dee6"
+icon_paper = "#c9d3db"
+# The orange icon role is steel too. Red stays the only hue, and only as a small mark.
+icon_orange = "#a8b3bd"
+muted = "#8b9198"
+
+background = "#0c0d0f"
+dark_background = "#08090a"
+darker_background = "#050506"
+lighter_background = "#181a1e"
+
+foreground = "#f4f5f6"
+dark_foreground = "#8e949b"
+light_foreground = "#d5d8dc"
+bright_foreground = "#ffffff"
+
+hyprland_active_border = "rgba(e7edf2ee) rgba(ffffff99) 90deg"
+hyprland_inactive_border = "rgba(ffffff22)"
+
+red = "#e5484d"
+bright_red = "#ff6b73"
+# These slots stay in the red and silver families. Nothing here is flame.
+orange = "#c45c64"
+yellow = "#c5ccd3"
+bright_yellow = "#e6ebf0"
+
+green = "#9dbeae"
+bright_green = "#d5ebe0"
+cyan = "#c5ced6"
+bright_cyan = "#e7edf2"
+blue = "#aeb8c2"
+bright_blue = "#d5dde4"
+magenta = "#c4c6ca"
+bright_magenta = "#e4e6e8"
+brown = "#6a6e73"

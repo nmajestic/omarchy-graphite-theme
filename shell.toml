@@ -1,0 +1,147 @@
+# Graphite shell. Smoked black glass, generous space, a silver edge on what is active.
+# A selected row lifts. It does not change the color of the type.
+
+[bar]
+background = "#0c0d0f"
+background-alpha = 0.5
+text = "#f4f5f6"
+active = "#e5484d"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(e7edf2ee) rgba(ffffff99) 90deg"
+active-border-foreground = "#ffffff"
+
+[controls]
+normal-color = "#f4f5f6"
+normal-fill-alpha = 0.03
+normal-border = "#ffffff"
+normal-border-width = 1
+normal-border-alpha = 0.14
+
+hover-cursor-color = "#ffffff"
+hover-cursor-fill-alpha = 0.06
+hover-cursor-border = "#e7edf2"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.7
+
+focus-color = "#ffffff"
+focus-fill-alpha = 0.08
+focus-border = "#e7edf2"
+focus-border-width = 1
+focus-border-alpha = 0.9
+
+selected-color = "#ffffff"
+selected-fill-alpha = 0.1
+selected-border = "#e7edf2"
+selected-border-width = 1
+selected-border-alpha = 1.0
+
+pressed-fill-alpha = 0.14
+selection-color = "#ffffff"
+selection-fill-alpha = 0.16
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+panel-padding = 18
+panel-gap = 14
+popup-padding = 14
+row-gap = 8
+row-padding-x = 12
+
+[font]
+base-size = 12
+
+[popups]
+background = "#101114"
+background-alpha = 0.82
+text = "#f4f5f6"
+border = "#e7edf2"
+border-alpha = 0.28
+border-width = 1
+
+[tooltip]
+background = "#101114"
+background-alpha = 0.92
+text = "#f4f5f6"
+border = "#e7edf2"
+border-alpha = 0.22
+border-width = 1
+
+[notifications]
+background = "#101114"
+background-alpha = 0.84
+text = "#f4f5f6"
+border = "#e7edf2"
+border-alpha = 0.32
+border-width = 1
+countdown = "#e7edf2"
+
+[launcher]
+background = "#0c0d0f"
+background-alpha = 0.78
+text = "#f4f5f6"
+border = "#e7edf2"
+border-alpha = 0.24
+border-width = 1
+scrim = "#050506"
+scrim-alpha = 0.55
+selected-background = "#ffffff"
+selected-background-alpha = 0.08
+selected-text = "#ffffff"
+selected-border = "#e7edf2"
+selected-border-alpha = 0.85
+selected-border-width = 1
+
+[menu]
+background = "#0c0d0f"
+background-alpha = 0.78
+text = "#f4f5f6"
+border = "#e7edf2"
+border-alpha = 0.24
+border-width = 1
+scrim = "#050506"
+scrim-alpha = 0.55
+selected-background = "#ffffff"
+selected-background-alpha = 0.08
+selected-text = "#ffffff"
+selected-border = "#e7edf2"
+selected-border-alpha = 0.85
+selected-border-width = 1
+
+[polkit]
+background = "#0c0d0f"
+background-alpha = 0.84
+text = "#f4f5f6"
+text-error = "#e5484d"
+border = "#e7edf2"
+border-error = "#e5484d"
+border-alpha = 0.4
+border-width = 1
+scrim = "#050506"
+scrim-alpha = 0.6
+accent = "#e7edf2"
+
+[lock]
+background = "#0c0d0f"
+background-alpha = 0.72
+text = "#ffffff"
+placeholder = "#8e949b"
+text-error = "#e5484d"
+border = "#e7edf2"
+border-active = "#ffffff"
+border-error = "#e5484d"
+border-alpha = 0.45
+border-width = 1
+selection = "#e7edf2"
+selection-alpha = 0.35
+
+[image-picker]
+text = "#f4f5f6"
+selected-border = "#e7edf2"
+selected-border-alpha = 1.0
+unselected-border = "#ffffff"
+unselected-border-alpha = 0.16
