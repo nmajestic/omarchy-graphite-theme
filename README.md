@@ -1,6 +1,8 @@
 # Graphite
 
-An Omarchy theme. Black glass, white type, and a stainless edge. Alerts are red. Icons are brushed steel. Nothing else carries a hue.
+An Omarchy theme. Black glass, white type, and a stainless edge. Alerts are red. Icons are brushed steel. The green slots are the Normandy SR-2 blue.
+
+Omarchy paints code and diffs from the syntax and status keys, and the terminal from the ANSI keys.
 
 The repository name installs as the theme **Graphite**.
 

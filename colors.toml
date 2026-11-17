@@ -30,13 +30,14 @@ hyprland_inactive_border = "rgba(ffffff22)"
 
 red = "#e5484d"
 bright_red = "#ff6b73"
-# These slots stay in the red and silver families. Nothing here is flame.
+# Red and silver, except the green slots, which are the Normandy SR-2 stripe.
+# Nothing here is flame.
 orange = "#c45c64"
 yellow = "#c5ccd3"
 bright_yellow = "#e6ebf0"
 
-green = "#9dbeae"
-bright_green = "#d5ebe0"
+green = "#5271c7"
+bright_green = "#91ace1"
 cyan = "#c5ced6"
 bright_cyan = "#e7edf2"
 blue = "#aeb8c2"
@@ -44,3 +45,21 @@ bright_blue = "#d5dde4"
 magenta = "#c4c6ca"
 bright_magenta = "#e4e6e8"
 brown = "#6a6e73"
+
+# Code and diffs. The ANSI names above stay the terminal palette.
+# The green slots there are the Normandy blue. Strings and success are this green.
+syntax_comment = "#8e949b"
+syntax_string = "#98c379"
+syntax_keyword = "#c678dd"
+syntax_function = "#91ace1"
+syntax_type = "#e5c07b"
+syntax_constant = "#e5484d"
+syntax_number = "#d19a66"
+syntax_property = "#56b6c2"
+syntax_operator = "#e7edf2"
+syntax_punctuation = "#8e949b"
+syntax_variable = "#f4f5f6"
+success = "#98c379"
+warning = "#e5c07b"
+info = "#91ace1"
+error = "#e5484d"
